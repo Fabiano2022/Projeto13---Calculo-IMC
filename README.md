@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto realizado em conjunto com o curso Explorer da Rockeatseat / Stage 5. Nesse projeto criamos uma calculadora que efetua o cálculo de IMC. O usuário insere o Peso e a altura e a calculadora cálcula o seu índice de Massa Corporal (IMC). 
 
 
-[Visite o projeto online] (https://fabiano2022.github.io/Projeto-12-Biscoito-da-Sorte/) 
+[Visite o projeto online] () 
 
 
 ## 🔖 Layout
